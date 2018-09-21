@@ -1,0 +1,9 @@
+body {
+    background: #cccccc url('../images/trianglify.svg');
+    background-size: cover;
+}
+
+.header {
+    color: #d9f0a3;
+    background-color: #41ab5d;
+}
